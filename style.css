@@ -1,0 +1,181 @@
+@font-face
+{
+	font-family:'AraJozoor-Regular';
+	src:url('../fonts/AraJozoor-Regular.eot');
+	src:local('âک؛'), url('../fonts/AraJozoor-Regular.woff') format('woff'), url('../fonts/AraJozoor-Regular.ttf') format('truetype'), url('../fonts/AraJozoor-Regular.svg') format('svg');
+	font-weight:normal;
+	font-style:normal
+}
+
+.title
+{
+    color:#3a3a3a;
+    font-weight:bold;
+    padding-bottom:10px;
+    border-bottom:2px solid #EEE;
+    font-family:'AraJozoor-Regular';
+    margin-bottom:35px
+}
+
+.myBtn
+{
+    margin-top:30px;
+    width:100%;
+    background-color:#333;
+    color:#FFF;
+    padding:10px 0
+}
+
+textarea
+{
+    resize:vertical
+}
+
+/* Start Bootstrap Edits */
+
+.navbar
+{
+    border-radius:0;
+    margin-bottom:60px
+}
+
+.navbar-inverse
+{
+    background-color:#333
+}
+
+.navbar-inverse .navbar-brand
+{
+    color:#FFF;
+    font-weight:bold
+}
+
+.navbar-inverse .navbar-nav > li > a{color:#FFF}
+
+.btn.focus,
+.btn:focus,
+.btn:hover
+{
+    color:#FFF
+}
+
+/* End Bootstrap Edits */
+
+body
+{
+    background-image:url('../images/bg.png');
+    font-family:'Cairo', sans-serif
+}
+
+/* Start Main  */
+
+.main .lead
+{
+    line-height:1.9;
+    font-size:15px
+}
+
+/* End Main */
+
+/* Start Features */
+
+.features .feature
+{
+    border-bottom:3px solid #3a3a3a;
+    padding-bottom:30px;
+    margin-bottom:30px
+}
+
+.features .feature:last-of-type
+{
+    border-bottom:0;
+    margin-bottom:5px
+}
+
+.features .feature .title
+{
+    border:none;
+    direction:ltr;
+    margin-top:20px
+}
+
+.features .feature ul
+{
+    text-align:right
+}
+
+.features .feature ul li
+{
+    font-size:15px
+}
+
+/* End Features */
+
+/* Start Banks */
+
+.banks .bank-account:first-of-type
+{
+    margin-bottom:30px
+}
+
+.banks .bank-account li h4
+{
+    font-weight:bold
+}
+
+/* End Banks */
+
+/* Start Buy */
+
+.buy .form-group
+{
+    margin-bottom:22px
+}
+
+.buy .form-control
+{
+    border:2px solid #888
+}
+
+/* End Buy */
+
+/* Start Groups */
+
+.group .app
+{
+    border-bottom:1px solid #CCC;
+    padding-bottom:30px;
+    margin-bottom:30px
+}
+
+.group .app img
+{
+    width:90px
+}
+
+.group .app .app-title
+{
+    direction:ltr
+}
+
+/* End Groups */
+
+/* Start Footer */
+
+footer
+{
+    margin-top:50px
+}
+
+footer ul li
+{
+    display:inline-block;
+    margin:0 8px
+}
+
+footer ul li a
+{
+    color:#333
+}
+
+/* End Footer */
